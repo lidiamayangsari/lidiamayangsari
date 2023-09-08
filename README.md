@@ -3,12 +3,11 @@
 Hello there! 👋 Thanks for stopping by. 
 
 This page serves as the central hub for all information, documentation, and updates related to my ongoing projects or curiosities👀. 
-Here, you'll find everything from source code to its latest releases and contributions.🌱
+Here, you will find everything from source code to its latest releases and contributions.🌱
 
-I am dedicated this page to explore prediction modelling in consumer behaviour 🛍️ 🛒, with a specific emphasis on food choice 🍽️🍚🍞🍠. 
+I dedicated this page to explore prediction modelling in consumer behaviour 🛍️ 🛒, with a specific emphasis on food choice 🍽️🍚🍞🍠. 
 
-Using the power of R, I delve into the nuances of consumer decisions ⚖️, providing valuable insights that can shape the future of food security 🌎 and choice architecture 💡. 
-Additionally, I leverage `agentpy` in Python to construct intricate agent-based simulations, further enhancing our understanding of consumer dynamics in the realm of food choice.
+Using the power of R, I delve into the nuances of consumer decisions ⚖️, providing valuable insights that can shape the future of food security 🌎 and choice architecture 💡. Additionally, I leverage `agentpy` in Python to construct intricate agent-based simulations 🖥️, further enhancing our understanding of consumer dynamics 🌐📈.
 
 #### Features:
 - **Data-Driven Insights:** Harnessing the statistical power of R to predict and understand consumer behaviour.
