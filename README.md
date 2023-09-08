@@ -18,7 +18,7 @@ Additionally, I leverage `agentpy` in Python to construct intricate agent-based 
 - **Community-driven:** Contributions are the backbone of this initiative. Feel free to raise issues, submit pull requests, or suggest new ideas.
 
 #### Connect with me:
-‎‍💻 [Linkedin](id.linkedin.com/in/lidia-mayangsari-075156108) [X]()
+‎‍💻 [Linkedin](id.linkedin.com/in/lidia-mayangsari-075156108) [IG](https://www.instagram.com/lidiamulyadi/)
 
 Thanks for your interest and for being a part of this journey! 🚀
 
